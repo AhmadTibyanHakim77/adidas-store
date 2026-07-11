@@ -1,0 +1,1 @@
+.fade-up{animation:fadeUp .75s ease both}.fade-in{animation:fadeIn .8s ease both}@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}

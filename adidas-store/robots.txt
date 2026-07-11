@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: /adidas-store/sitemap.xml
