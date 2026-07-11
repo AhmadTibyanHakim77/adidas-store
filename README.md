@@ -1,280 +1,266 @@
-# \# 👟 Adidas Store
+#### \# 👟 Adidas Store
 
-# 
+#### 
 
-# Modern Adidas Store Website built with PHP, MySQL, HTML, CSS, and JavaScript.
+#### A modern e-commerce website for showcasing Adidas products, built using PHP Native, MySQL, HTML, CSS, and JavaScript.
 
-# 
+#### 
 
-# \## 🌐 Live Demo
+#### 🌐 \*\*Live Demo\*\*  
 
-# 
+#### https://adidasstore.kesug.com
 
-# https://adidasstore.kesug.com
+#### 
 
-# 
+#### \---
 
-# \---
+#### 
 
-# 
+##### \## 📌 Overview
 
-# \# 📖 Overview
+#### 
 
-# 
+#### Adidas Store is a full stack web application developed as a portfolio project. The website provides an online shopping experience with product browsing, user authentication, shopping cart, wishlist, and an admin dashboard for managing products.
 
-# Adidas Store adalah website e-commerce yang dikembangkan sebagai proyek portofolio Full Stack Developer. Website ini menyediakan katalog produk, sistem autentikasi pengguna, keranjang belanja, wishlist, dashboard admin, serta pengelolaan data menggunakan PHP dan MySQL.
+#### 
 
-# 
+#### The project focuses on responsive design, clean user interface, and fundamental e-commerce functionality using PHP Native and MySQL.
 
-# Project ini dibuat untuk menunjukkan kemampuan dalam membangun website e-commerce yang responsif, terstruktur, dan mudah dikembangkan.
+#### 
 
-# 
+#### \---
 
-# \---
+#### 
 
-# 
+#### \## ✨ Key Features
 
-# \# ✨ Features
+#### 
 
-# 
+#### \- Responsive Landing Page
 
-# \- Modern Landing Page
+#### \- Product Catalog
 
-# \- Product Catalog
+#### \- Product Detail Page
 
-# \- Product Detail
+#### \- Shopping Cart
 
-# \- Shopping Cart
+#### \- Wishlist
 
-# \- Wishlist
+#### \- User Login \& Register
 
-# \- User Login \& Register
+#### \- User Profile
 
-# \- User Profile
+#### \- Checkout Page
 
-# \- Checkout Page
+#### \- Contact Page
 
-# \- Contact Page
+#### \- Admin Dashboard
 
-# \- Admin Dashboard
+#### \- Product Management
 
-# \- Product Management
+#### \- MySQL Database Integration
 
-# \- Responsive Design
+#### 
 
-# 
+#### \---
 
-# \---
+#### 
 
-# 
+#### \## 🛠 Technology Stack
 
-# \# 🛠 Tech Stack
+#### 
 
-# 
+#### | Category | Technology |
 
-# \### Frontend
+#### |----------|------------|
 
-# 
+#### | Frontend | HTML5, CSS3, JavaScript |
 
-# \- HTML5
+#### | Backend | PHP Native |
 
-# \- CSS3
+#### | Database | MySQL |
 
-# \- JavaScript
+#### | Server | Apache (XAMPP / InfinityFree) |
 
-# 
+#### 
 
-# \### Backend
+#### \---
 
-# 
+#### 
 
-# \- PHP Native
+#### \## 📂 Project Structure
 
-# 
+#### 
 
-# \### Database
+#### ```text
 
-# 
+#### adidas-store
 
-# \- MySQL
+#### │
 
-# 
+#### ├── admin
 
-# \---
+#### ├── assets
 
-# 
+#### │   ├── css
 
-# \# 📁 Project Structure
+#### │   ├── images
 
-# 
+#### │   └── js
 
-# ```text
+#### ├── database
 
-# adidas-store
+#### ├── includes
 
-# │
+#### ├── pages
 
-# ├── admin
+#### ├── index.php
 
-# ├── assets
+#### ├── robots.txt
 
-# │   ├── css
+#### └── sitemap.xml
 
-# │   ├── images
+#### ```
 
-# │   └── js
+#### 
 
-# ├── database
+#### \---
 
-# ├── includes
+#### 
 
-# ├── pages
+#### \## 🚀 Installation
 
-# ├── index.php
+#### 
 
-# ├── robots.txt
+#### Clone repository
 
-# └── sitemap.xml
+#### 
 
-# ```
+#### ```bash
 
-# 
+#### git clone https://github.com/AhmadTibyanHakim77/adidas-store.git
 
-# \---
+#### ```
 
-# 
+#### 
 
-# \# 🚀 Installation
+#### Go to project directory
 
-# 
+#### 
 
-# Clone repository
+#### ```bash
 
-# 
+#### cd adidas-store
 
-# ```bash
+#### ```
 
-# git clone https://github.com/AhmadTibyanHakim77/adidas-store.git
+#### 
 
-# ```
+#### Import the database
 
-# 
+#### 
 
-# Masuk ke folder project
+#### ```text
 
-# 
+#### database/adidas.sql
 
-# ```bash
+#### ```
 
-# cd adidas-store
+#### 
 
-# ```
+#### Configure database connection
 
-# 
+#### 
 
-# Import database
+#### ```text
 
-# 
+#### includes/config.php
 
-# ```
+#### ```
 
-# database/adidas.sql
+#### 
 
-# ```
+#### Run the project using XAMPP, Laragon, or another PHP web server.
 
-# 
+#### 
 
-# Sesuaikan konfigurasi database pada
+#### Open your browser
 
-# 
+#### 
 
-# ```
+#### ```text
 
-# includes/config.php
+#### http://localhost/adidas-store
 
-# ```
+#### ```
 
-# 
+#### 
 
-# Jalankan menggunakan XAMPP, Laragon, atau web server PHP lainnya.
+#### \---
 
-# 
+#### 
 
-# Buka browser
+#### \## 🌍 Deployment
 
-# 
+#### 
 
-# ```
+#### | Platform | Status |
 
-# http://localhost/adidas-store
+#### |----------|--------|
 
-# ```
+#### | InfinityFree | ✅ Live |
 
-# 
+#### | Database | MySQL |
 
-# \---
+#### 
 
-# 
+#### \---
 
-# \# 🌍 Deployment
+#### 
 
-# 
+#### \## 📸 Preview
 
-# \- Hosting : InfinityFree
+#### 
 
-# \- Backend : PHP Native
+#### > Screenshot will be added soon.
 
-# \- Database : MySQL
+#### 
 
-# 
+#### \---
 
-# \---
+#### 
 
-# 
+#### \## 🎯 Project Purpose
 
-# \# 🎯 Project Objectives
+#### 
 
-# 
+#### This project was developed to demonstrate skills in building a responsive e-commerce website using PHP Native and MySQL while applying clean code organization and modern UI design.
 
-# \- Mengembangkan website e-commerce menggunakan PHP Native.
+#### 
 
-# \- Menerapkan sistem autentikasi pengguna.
+#### \---
 
-# \- Mengelola data produk menggunakan MySQL.
+#### 
 
-# \- Membangun dashboard admin sederhana.
+#### \## 👨‍💻 Developer
 
-# \- Menghasilkan website yang responsif dan mudah digunakan.
+#### 
 
-# 
+#### \*\*Ahmad Tibyan Hakim\*\*
 
-# \---
+#### 
 
-# 
+#### GitHub: https://github.com/AhmadTibyanHakim77
 
-# \# 👨‍💻 Developer
+#### 
 
-# 
+#### \---
 
-# \*\*Ahmad Tibyan Hakim\*\*
+#### 
 
-# 
+#### \## 📄 License
 
-# GitHub
+#### 
 
-# 
-
-# https://github.com/AhmadTibyanHakim77
-
-# 
-
-# \---
-
-# 
-
-# \# 📄 License
-
-# 
-
-# This project was created for educational purposes and portfolio demonstration.
+#### This project is published for educational purposes and portfolio demonstration.
 
