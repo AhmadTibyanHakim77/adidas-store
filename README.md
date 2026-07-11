@@ -2,29 +2,11 @@
 
 #### 
 
-#### A modern e-commerce website for showcasing Adidas products, built using PHP Native, MySQL, HTML, CSS, and JavaScript.
+#### Modern e-commerce website built with PHP Native, MySQL, HTML5, CSS3, and JavaScript.
 
 #### 
 
-#### 🌐 \*\*Live Demo\*\*  
-
-#### https://adidasstore.kesug.com
-
-#### 
-
-#### \---
-
-#### 
-
-#### \## 📌 Overview
-
-#### 
-
-#### Adidas Store is a full stack web application developed as a portfolio project. The website provides an online shopping experience with product browsing, user authentication, shopping cart, wishlist, and an admin dashboard for managing products.
-
-#### 
-
-#### The project focuses on responsive design, clean user interface, and fundamental e-commerce functionality using PHP Native and MySQL.
+#### 🌐 \*\*Live Demo:\*\* https://adidasstore.kesug.com
 
 #### 
 
@@ -32,7 +14,19 @@
 
 #### 
 
-#### \## ✨ Key Features
+#### \## 📖 Overview
+
+#### 
+
+#### Adidas Store is a modern e-commerce web application developed as a Full Stack Web Developer portfolio project. It allows users to browse products, manage shopping carts, create wishlists, and access an admin dashboard for product management.
+
+#### 
+
+#### \---
+
+#### 
+
+#### \## ✨ Features
 
 #### 
 
@@ -40,25 +34,19 @@
 
 #### \- Product Catalog
 
-#### \- Product Detail Page
+#### \- Product Detail
 
 #### \- Shopping Cart
 
 #### \- Wishlist
 
-#### \- User Login \& Register
+#### \- User Authentication
 
-#### \- User Profile
-
-#### \- Checkout Page
-
-#### \- Contact Page
+#### \- Checkout System
 
 #### \- Admin Dashboard
 
 #### \- Product Management
-
-#### \- MySQL Database Integration
 
 #### 
 
@@ -66,13 +54,13 @@
 
 #### 
 
-#### \## 🛠 Technology Stack
+#### \## 🛠️ Tech Stack
 
 #### 
 
-#### | Category | Technology |
+#### | Layer | Technology |
 
-#### |----------|------------|
+#### |--------|------------|
 
 #### | Frontend | HTML5, CSS3, JavaScript |
 
@@ -96,17 +84,9 @@
 
 #### adidas-store
 
-#### │
-
 #### ├── admin
 
 #### ├── assets
-
-#### │   ├── css
-
-#### │   ├── images
-
-#### │   └── js
 
 #### ├── database
 
@@ -132,23 +112,9 @@
 
 #### 
 
-#### Clone repository
-
-#### 
-
 #### ```bash
 
 #### git clone https://github.com/AhmadTibyanHakim77/adidas-store.git
-
-#### ```
-
-#### 
-
-#### Go to project directory
-
-#### 
-
-#### ```bash
 
 #### cd adidas-store
 
@@ -156,7 +122,7 @@
 
 #### 
 
-#### Import the database
+#### Import database:
 
 #### 
 
@@ -168,7 +134,7 @@
 
 #### 
 
-#### Configure database connection
+#### Configure:
 
 #### 
 
@@ -180,19 +146,7 @@
 
 #### 
 
-#### Run the project using XAMPP, Laragon, or another PHP web server.
-
-#### 
-
-#### Open your browser
-
-#### 
-
-#### ```text
-
-#### http://localhost/adidas-store
-
-#### ```
+#### Run the project using XAMPP, Laragon, or another PHP server.
 
 #### 
 
@@ -204,37 +158,13 @@
 
 #### 
 
-#### | Platform | Status |
+#### | Service | Status |
 
 #### |----------|--------|
 
-#### | InfinityFree | ✅ Live |
+#### | Hosting | InfinityFree |
 
 #### | Database | MySQL |
-
-#### 
-
-#### \---
-
-#### 
-
-#### \## 📸 Preview
-
-#### 
-
-#### > Screenshot will be added soon.
-
-#### 
-
-#### \---
-
-#### 
-
-#### \## 🎯 Project Purpose
-
-#### 
-
-#### This project was developed to demonstrate skills in building a responsive e-commerce website using PHP Native and MySQL while applying clean code organization and modern UI design.
 
 #### 
 
