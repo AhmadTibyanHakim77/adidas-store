@@ -1,4 +1,4 @@
-#### \# 👟 Adidas Store
+#### **# 👟 Adidas Store**
 
 #### 
 
@@ -6,7 +6,7 @@
 
 #### 
 
-#### 🌐 \*\*Live Demo\*\*  
+#### **🌐 \*\*Live Demo\*\***
 
 #### https://adidasstore.kesug.com
 
@@ -16,7 +16,7 @@
 
 #### 
 
-##### \## 📌 Overview
+##### **## 📌 Overview**
 
 #### 
 
@@ -32,7 +32,7 @@
 
 #### 
 
-#### \## ✨ Key Features
+#### **## ✨ Key Features**
 
 #### 
 
@@ -66,7 +66,7 @@
 
 #### 
 
-#### \## 🛠 Technology Stack
+#### **## 🛠 Technology Stack**
 
 #### 
 
@@ -88,7 +88,7 @@
 
 #### 
 
-#### \## 📂 Project Structure
+#### **## 📂 Project Structure**
 
 #### 
 
@@ -128,7 +128,7 @@
 
 #### 
 
-#### \## 🚀 Installation
+#### **## 🚀 Installation**
 
 #### 
 
@@ -200,7 +200,7 @@
 
 #### 
 
-#### \## 🌍 Deployment
+#### **## 🌍 Deployment**
 
 #### 
 
@@ -218,7 +218,7 @@
 
 #### 
 
-#### \## 📸 Preview
+#### **## 📸 Preview**
 
 #### 
 
@@ -230,7 +230,7 @@
 
 #### 
 
-#### \## 🎯 Project Purpose
+#### **## 🎯 Project Purpose**
 
 #### 
 
@@ -242,7 +242,7 @@
 
 #### 
 
-#### \## 👨‍💻 Developer
+#### **## 👨‍💻 Developer**
 
 #### 
 
@@ -258,7 +258,7 @@
 
 #### 
 
-#### \## 📄 License
+#### **## 📄 License**
 
 #### 
 
